@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleal89/random-str-msg-ed.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "eleal89@gmail.com",
   "license": "ISC"
 }
