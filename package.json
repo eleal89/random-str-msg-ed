@@ -12,5 +12,9 @@
   },
   "keywords": [],
   "author": "eleal89@gmail.com",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eleal89/random-str-msg-ed/issues"
+  },
+  "homepage": "https://github.com/eleal89/random-str-msg-ed#readme"
 }
